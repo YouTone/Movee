@@ -7,8 +7,6 @@ Short animations for sense with sound.
 ![blame gif][5]
 
 
-<img src="https://github.com/ludologer/Movee/blob/main/worrygif.gif">
-
 
 **Пример [worry][1], пример [blame][2].**
 
