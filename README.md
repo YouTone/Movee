@@ -8,5 +8,5 @@ Short animations for sense with sound.
 
 [1]: https://google.ru "Гугл" 
 [2]: https://yandex.ru "Яндекс"
-[3]: https://github.com/ludologer/Movee/commit/1a136f6e6b4d05aeaca321ffe6bf49ceb7c7a77e
+[3]: https://github.com/ludologer/Movee/commit/8e28c91c39e6d06c555883d57469120b715637d3
 
