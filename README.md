@@ -17,7 +17,7 @@ Send to bot @youtone emoji and hear a sound
 <br>
 # Take ringtones with pict
 <br>
-Choose illustrated ringtone from AI
+# Choose illustrated ringtone from AI
 <br>
 
 
