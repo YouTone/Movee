@@ -1,9 +1,9 @@
 # Movee
-**Short animations for sense with sound.**\
-
+**Short animations for sense with sound.**
+<br>
 
 # Merge .gif & voice
-
+<br>
 # Send emotions over sounds
 ### Blame
   
@@ -12,9 +12,9 @@
 ![blame gif][5]
   
 # Use bot for change tone\
-  
+<br>  
 # Take ringtones with pict
-
+<br>
   Пример [worry][1], пример [blame][2]
 
 [1]: https://google.ru "Гугл" 
