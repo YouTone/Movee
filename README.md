@@ -1,16 +1,17 @@
 # Movee
-**Short animations for sense with sound.**
+**Short animations for sense with sound.**\
 
-  # Merge gif&voice
+
+# Merge .gif & voice
 
 # Send emotions over sounds
-## Blame
+### Blame
   
 ![blame jpg][3]
 ![blame png][4]
 ![blame gif][5]
   
-# Use bot for change tone
+# Use bot for change tone\
   
 # Take ringtones with pict
 
