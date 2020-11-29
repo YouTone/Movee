@@ -1,21 +1,27 @@
-# Movee
-**Short animations for sense with sound.**
-<br>
-
 # Merge .gif & voice
 <br>
+Send to bot @youtone gifs and voice message and get back fun video byte
+<br>
 # Send emotions over sounds
+<br>
+Send to bot @youtone emoji and hear a sound
+
 ### Blame
   
 ![blame jpg][3]
 ![blame png][4]
 ![blame gif][5]
   
-# Use bot for change tone\
+# Use bot for change tone
 <br>  
+<br>
 # Take ringtones with pict
 <br>
-  Пример [worry][1], пример [blame][2]
+Choose illustrated ringtone from AI
+<br>
+
+
+Пример [worry][1], пример [blame][2]
 
 [1]: https://google.ru "Гугл" 
 [2]: https://yandex.ru "Яндекс"
